@@ -5,9 +5,7 @@ A fun fact about me: I play the electric guitar!
 
 
 Email: serenaychen2005@gmail.com  
-
 LinkedIn: www.linkedin.com/in/serenac0210  
-
 Resume: 
 
 Feel free to reach out, I'd love to connect! 
