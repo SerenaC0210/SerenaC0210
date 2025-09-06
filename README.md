@@ -1,7 +1,12 @@
 ## Hi! I'm Serena 🌻
+I'm currently an undergraduate studying Computer Science at the University of Rochester. My interests are in software and game development. This year, I am learning SwiftUI and developing iOS apps. 
 
-### test
-test
+Email: serenaychen2005@gmail.com
+LinkedIn:[www.linkedin.com/in/serenac0210]
+Resume:
+
+A fun fact about me: I play the electric guitar!
+
 <!--
 **SerenaC0210/SerenaC0210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
