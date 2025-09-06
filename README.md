@@ -3,9 +3,9 @@ I'm currently an undergraduate studying Computer Science at the University of Ro
 
 Email: serenaychen2005@gmail.com  
 
-LinkedIn: www.linkedin.com/in/serenac0210  
+LinkedIn: linkedin.com/in/serenac0210  
 
-Resume:
+Resume: 
 
 A fun fact about me: I play the electric guitar!
 
