@@ -1,5 +1,5 @@
 ## Hi! I'm Serena 🌻
-I'm currently an undergraduate studying Computer Science at the University of Rochester. My interests are in software and game development. This year, I am learning SwiftUI and developing iOS apps. 
+I'm currently an undergraduate studying Computer Science at the University of Rochester. My interests are in software and game development. This year, I'm learning SwiftUI to develop iOS apps and Unreal Engine for personal projects. 
 
 A fun fact about me: I play the electric guitar!
 
