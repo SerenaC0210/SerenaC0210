@@ -3,8 +3,7 @@ I'm currently an undergraduate studying Computer Science at the University of Ro
 
 A fun fact about me: I play the electric guitar!
 
-Ways to reach me: 
-
+Ways to reach me:   
 Email: serenaychen2005@gmail.com  
 LinkedIn: www.linkedin.com/in/serenac0210  
 
