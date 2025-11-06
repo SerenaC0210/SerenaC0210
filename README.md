@@ -3,12 +3,10 @@ I'm currently an undergraduate studying Computer Science at the University of Ro
 
 A fun fact about me: I play the electric guitar!
 
-
+Ways to reach me: 
 Email: serenaychen2005@gmail.com  
 LinkedIn: www.linkedin.com/in/serenac0210  
-Resume: 
 
-Feel free to reach out, I'd love to connect! 
 <!--
 **SerenaC0210/SerenaC0210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
