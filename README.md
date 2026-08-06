@@ -1,7 +1,7 @@
 ## Hi! I'm Serena 🌻
-I'm currently an undergraduate studying Computer Science at the University of Rochester. My interests are in human computer interaction and game development. This year, I'm learning Unity for VR development.
+I'm currently an undergraduate studying Computer Science at the University of Rochester. My interests are in human computer interaction and front-end development.
 
-A fun fact about me: I play the electric guitar!
+A fun fact about me: I'm learning the electric guitar!
 
 Ways to reach me:   
 Email: schen172@u.rochester.edu  
